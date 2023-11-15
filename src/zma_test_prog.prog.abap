@@ -8,7 +8,7 @@ REPORT ZMA_TEST_PROG.
 * REPOSITORYNAME                                                      *
 *=====================================================================*
 * Datum       :  15.11.2023                                                     *
-* Anwendung   :                                                       *
+* Anwendung   :  +++++++                                              *
 * Anforderung/Ticket:                                                  *
 * Programm    :                                                       *
 * Transaktion :                                                       *
